@@ -9,7 +9,8 @@ def is_pass(score):
 def greet(name, greeting="Hello"):
     return greeting + ", " + name + "!"
 
-    print(double(7))
+
+print(double(7))
 print(double(10))
 print(is_pass(80))
 print(is_pass(20))
